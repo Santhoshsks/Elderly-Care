@@ -1,1 +1,4 @@
 # Elderly-Care
+Abstract:
+	   Employing a genetic algorithm, the appointment scheduling project optimizes appointment allocation by simulating natural selection principles. Within this framework, individuals symbolize various appointment schedules, evaluated based on their adherence to defined constraints such as reducing appointment gaps and maximizing resource utilization. Through iterative selection, combination, and mutation, the algorithm refines these schedules, gradually enhancing the overall quality of the schedule. 
+                Concurrently, an AI chatbot, driven by pre-established rules, efficiently addresses user queries, retrieves pertinent scheduling information, recommends available slots, and confirms appointments. This integrated system not only streamlines user experience but also completes project objectives, fostering heightened satisfaction, operational efficiency, and improved accessibility within the scheduling ecosystem.
